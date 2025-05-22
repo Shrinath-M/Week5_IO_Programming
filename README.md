@@ -1,4 +1,4 @@
-# Week 5: IO Programming, Annotations & Reflection 🚀
+# Week 5: IO Programming, Annotations & Reflection 
 
 Welcome to **Week 5** of our Java learning journey!  
 This week focuses on **IO Programming with CSV and JSON data formats**, along with advanced Java concepts like **Annotations, Reflection**, and **Design Principles**.
